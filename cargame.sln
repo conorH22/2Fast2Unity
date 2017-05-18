@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cargame.Plugins", "cargame.Plugins.csproj", "{0251E5AB-160D-3682-5EB8-C8C75EE99FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cargame", "cargame.csproj", "{44278D24-B3AC-8DBE-6974-AADAC420A5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cargame.Editor", "cargame.Editor.csproj", "{C08FACDF-4FA6-D3EF-2738-83815C11FD12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0251E5AB-160D-3682-5EB8-C8C75EE99FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0251E5AB-160D-3682-5EB8-C8C75EE99FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0251E5AB-160D-3682-5EB8-C8C75EE99FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0251E5AB-160D-3682-5EB8-C8C75EE99FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44278D24-B3AC-8DBE-6974-AADAC420A5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44278D24-B3AC-8DBE-6974-AADAC420A5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44278D24-B3AC-8DBE-6974-AADAC420A5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44278D24-B3AC-8DBE-6974-AADAC420A5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08FACDF-4FA6-D3EF-2738-83815C11FD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08FACDF-4FA6-D3EF-2738-83815C11FD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08FACDF-4FA6-D3EF-2738-83815C11FD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08FACDF-4FA6-D3EF-2738-83815C11FD12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
